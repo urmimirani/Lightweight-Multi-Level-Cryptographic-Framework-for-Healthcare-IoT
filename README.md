@@ -1,7 +1,7 @@
 # Lightweight-Multi-Level-Cryptographic-Framework-for-Healthcare-IoT
 Designed to secure sensitive patient data in resource-constrained Healthcare IoT (HIoT) environments
 
-## 📑 Abstract
+## Abstract
 
 The project presents a **lightweight, multi-level cryptographic framework** designed to secure sensitive patient data in resource-constrained **Healthcare IoT (HIoT)** environments. It integrates:
 
